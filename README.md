@@ -18,14 +18,20 @@ This widget displays your GitHub contributions graph on the lockscreen, allowing
 
 ## Getting Started
 
-### Prerequisites
+### Download with ScriptDude
+
+[![Download with ScriptDude](https://scriptdu.de/download.svg)](https://scriptdu.de?name=GitHub%20Contributions&source=https%3A%2F%2Fraw.githubusercontent.com%2Fferraridavide%2Fscriptable%2Fmain%2Fgithub-contributions.js&docs=https%3A%2F%2Fgithub.com%2Fferraridavide%2Fscriptable%2Fblob%2Fmain%2FREADME.md)
+
+### Manual Installation
+
+#### Prerequisites
 
 Before you can use these widgets, you need to:
 
 - Install the [Scriptable app](https://apps.apple.com/us/app/scriptable/id1405459188) from the iOS App Store.
 - Have your GitHub Personal Access Token ready for widgets that require GitHub data.
 
-### Installation
+#### Installation
 
 To install a widget on your iOS device:
 
