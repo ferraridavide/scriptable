@@ -4,6 +4,12 @@ This repository is a curated collection of Scriptable widgets that I have create
 
 ## Widgets
 
+### Days left
+
+<img src="img/days.jpg" width="400" alt="Days left">
+
+Inspired by [@samdape](https://x.com/samdape/status/1878547979906187432) 
+
 ### GitHub Contributions
 
 <img src="img/github.jpg" width="400" alt="GitHub Contributions">
