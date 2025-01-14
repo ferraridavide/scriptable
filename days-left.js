@@ -27,7 +27,7 @@ for (let row = 0; row < ROWS; row++) {
         boxStack.size = new Size(CELL_SIZE, CELL_SIZE);
 
         if (col < COLUMNS - 1) {
-            rowStack.addSpacer()
+            rowStack.addSpacer(11)
         }
     }
 
